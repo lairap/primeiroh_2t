@@ -9,8 +9,8 @@ h1 {
    top: 0;
    left: 0;
    width: 100%;
-   height: 50px;
-   background:rgb(205, 179, 223);
+   height: 70px;
+   background:rgb(137, 116, 151);
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav ul{
@@ -24,12 +24,29 @@ li {
 }
 li a{
   display: block;
-  color: aliceblue;
+  color: rgb(238, 247, 255);
   text-align: center;
-  padding: 14px 16px;
+  padding: 25px 30px;
   text-decoration: none;
 }
 li a:hover {
-  color:rgb(102, 80, 116);
-  background: lightblue;
+  color:rgb(61, 48, 70);
+  background: rgb(178, 197, 218);
+}
+.rodape {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 35px;
+  background: rgb(137, 116, 151);
+  color: blanchedalmond;
+  justify-content: center;
+  display: flex;
+}
+#metallica {
+  width: 25%;
+  top: 60px;
+  right: 38%;
+  position: absolute;
+  justify-content: center;
 }
