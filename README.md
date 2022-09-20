@@ -1,1 +1,2 @@
-# Laira Luiza 37, Alexandre Sakai 1, Kauã Furioso 12
+# minha_nota_2t
+Laira Luiza n.37, Alexandre Sakai  n.1, Kauã Furioso n.12 - 1. H
